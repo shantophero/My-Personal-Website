@@ -1,0 +1,52 @@
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+body{
+    font-family: 'Akaya Kanadaka', cursive;
+    margin:0px;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left:3%;
+    padding:2%;
+}
+.name-highlight{
+    color:chocolate;
+}
+.half-width img{
+    width: 80%;
+}
+.top-site{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 8px;
+}
+.Motivational-area{
+    background-image: url(images/Motivational.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.word-highlight{
+    color: red;
+}
